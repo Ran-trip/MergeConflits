@@ -1,3 +1,4 @@
+REMOTE
 # MergeConflits
 I like talkative peeps
 But sometime with too many friends, you can't talk anymore
